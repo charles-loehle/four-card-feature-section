@@ -47,6 +47,10 @@ section.info {
   margin-top: 0;
 }
 
+.secondary-title, .card-title {
+  color: hsl(234, 12%, 34%);
+}
+
 p.subtitle {
   font-size: 15px;
   color: hsl(229, 6%, 66%);
